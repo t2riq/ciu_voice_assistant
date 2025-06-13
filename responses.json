@@ -1,0 +1,42 @@
+{
+  "library": "The library is located near Building GE.",
+  "cafeteria": "The cafeteria is in Break Point Center.",
+  "lake view": "The lake view is in Break Point Center.",
+  "gym": "The gym is located in Arena Building.",
+  "parking": "You can get the parking information from the student office.",
+  
+  "bus": "The university buses are located in U-zone.",
+  "library schedule": "The library is open from 8 AM to 5 PM, Monday through Saturday.",
+  "university wi-fi": "You can access the university Wi-Fi using your phone. The Wi-Fi name is 'CIU-WIFI'.",
+  
+  "st building": "Press the Top button, and follow CIU assistance robot please.",
+  "cu building": "Press the right button, and follow CIU assistance robot please.",
+  "ge building": "Press the left button, and follow CIU assistance robot please.",
+  "eh building": "You can find EH building near the international office building.",
+  "cl building": "You can find CL building near CIU lake.",
+  "ec building": "You can find EC building behind EH building.",
+  "ar building": "You can find AR building near EH building.",
+  "el building": "You can find EL building near ST building.",
+  "anfi building": "Press the left button, and follow CIU assistance robot please.",
+
+  "restore my student id": "To restore your student ID, visit the Student Office in Break Point Square.",
+  "student id": "You can get your student ID from the Student Office in Break Point Square.",
+
+  "access my grades": "You can access your grades by opening the SIS website.",
+  "drop a class": "To drop a class, please visit your advisor.",
+  "advisor": "You can find your academic advisor's contact information in your SIS page.",
+
+  "campus events": "You can find information about upcoming events on the university’s events calendar website.",
+  "club fair": "The club fair is held every semester next to EH building.",
+  "sports events": "The sports events schedule is available on the university sports team board, located in Arena building.",
+
+  "student housing": "Student housing applications can be submitted through the student office or by visiting the SIS website.",
+  "student payment": "For student payment, you can visit the International Office in The Square Building.",
+  "health services": "Health services are available at the Student Health Center located near CL Building.",
+  "transcript": "To request a transcript, visit the International Office.",
+
+  "time": "The current time is: {time}",
+  "printer": "You can find printers in the library located in the Break Point Center.",
+  
+  "fallback": "I’m sorry, I couldn't understand your question. Could you please ask about campus services, restoration, or directions?"
+}
