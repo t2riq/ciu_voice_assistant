@@ -36,12 +36,12 @@ If a query doesn't match local data, OpenAI's LLM can generate a fallback respon
 ---
 
 ## 📁 Project Structure
-
+```
 ├── main.py # Main logic for assistant, query handling, LiveKit setup
 ├── api.py # Contains AssistantFnc with callable functions
 ├── responses.json # Local preset answers to known student questions
 ├── .env # Environment config with API keys
-
+```
 ## 📋 Sample `responses.json` Entry
 
 ```json
@@ -50,7 +50,7 @@ If a query doesn't match local data, OpenAI's LLM can generate a fallback respon
   "cafeteria": "The cafeteria is in Building D, next to the main hall.",
   "time": "The current time is {time}."
 }
-
+```
 
 ---
 
@@ -61,8 +61,7 @@ If a query doesn't match local data, OpenAI's LLM can generate a fallback respon
 ```bash
 git clone https://github.com/your-username/ciu_voice_assistant.git
 cd ciu_voice_assistant
-
-
+```
 2. **Install Dependencies**
 
 pip install -r requirements.txt
