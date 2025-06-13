@@ -63,22 +63,23 @@ git clone https://github.com/your-username/ciu_voice_assistant.git
 cd ciu_voice_assistant
 ```
 2. **Install Dependencies**
-
+```
 pip install -r requirements.txt
-
+```
 
 3. **Add a .env file**
 Create a .env file in the root directory and add your keys:
-
+```
 OPENAI_API_KEY=your_openai_key
 LIVEKIT_API_KEY=your_livekit_key
 LIVEKIT_SECRET=your_livekit_secret
 LIVEKIT_URL=wss://your-livekit-url
-
+```
 
 4. **Run the Assistant**
+```
 python main.py
-
+```
 ---
 
 ## 🗣 Example Questions the Assistant Can Handle
